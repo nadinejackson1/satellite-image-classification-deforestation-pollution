@@ -6,7 +6,7 @@ This repository contains a satellite image classifier that identifies signs of d
 
 ### Dataset
 
-The dataset used for this project is sourced from the [Planet: Understanding the Amazon from Space Kaggle competition](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data). The dataset contains multi-label satellite images taken from the Amazon rainforest, with each image associated with one or more tags.
+The dataset used for this project is sourced from the [Amazon Deforestation from Space](https://www.kaggle.com/datasets/prosperchuks/amazonsatelliteimages) Kaggle dataset. The dataset contains multi-label satellite images taken from the Amazon rainforest, with each image associated with one or more tags.
 
 ### Requirements
 
@@ -19,7 +19,7 @@ The dataset used for this project is sourced from the [Planet: Understanding the
 
 ### Usage
 
-1. Download the dataset from the [Planet: Understanding the Amazon from Space Kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data) competition and extract the contents to a directory named data.
+1. Download the dataset from [Amazon Deforestation from Space](https://www.kaggle.com/datasets/prosperchuks/amazonsatelliteimages) and extract the contents to a directory named data.
 
 2. Run the **satellite_image_classifier.py** script to train the model:
 
